@@ -282,7 +282,7 @@ function MapExtensionApp() {
     if (!isConfigured) {
         return (
             <div className="flex items-center justify-center h-screen bg-gray-50 dark:bg-gray-900 p-8">
-                <div className="max-w-md text-center">
+                <div className="text-center">
                     <div
                         style={{width: '525px'}}
                         className="inline-flex flex-col justify-start items-center gap-3"

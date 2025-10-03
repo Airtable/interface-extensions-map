@@ -1,6 +1,6 @@
 {
     "name": "@airtable/interface-extensions-map",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A typescript version of a map view app",
     "author": "",
     "license": "MIT",
